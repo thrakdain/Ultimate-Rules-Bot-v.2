@@ -2,6 +2,6 @@
 
 A bot for referencing the official WFDF rules of Ultimate.
 
-Main does the actual referecning and commands.
+Main does the actual referencing and commands.
 
 keep alive is a seperate bot for keeping the the repl page running full time.
